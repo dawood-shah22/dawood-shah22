@@ -15,7 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-👨‍💻 About Me<br><br>- 🔭 Currently working on: CompTIA A+ and Networking.<br>- 🌱 Currently learning: Computer Hardware, Operating Systems, Networking, Virtualization and Cloud Computing.<br>- 💻 Exploring: AI, Python and Linux.<br>- 🎯 Goal: To become a skilled IT and AI professional.<br>- ⚡ Fun fact: I enjoy learning new technologies.
+👨‍💻 About Me<br><br>- 🔭 Currently working on: CompTIA A+ and Networking.<br>- 🌱 Currently learning: Computer Hardware, Operating Systems, Networking, Virtualization and Cloud Computing.<br>- 💻 Exploring: AI, Python and Linux.<br>- 🎯 Goal: To become a skilled IT and AI professional.<br>- ⚡ Fun fact: I enjoy learning new technologies. 
+
+ !-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 
 ## 🌐 Socials:
